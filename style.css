@@ -67,6 +67,8 @@ body{
 .feature-lists .feature-items{
     list-style: none;
     padding: 30px 20px 0 50px;
+    display: flex;
+    flex-direction: column;
 }
 .feature-items .span{
     font-size: 12px;
